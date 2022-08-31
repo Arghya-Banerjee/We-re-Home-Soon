@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #0003ff, #7b00f6, #ab00ed, #cf00e4, #eb12dc);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 150px;
+    font-weight: 100;
+}
+
+.heading1 {
+    font-size: 60px;
+    text-align: center;
+    justify-content: center;  
+    justify-items: auto;
+    color: white;
+}
+
+.timer {
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;  
+    justify-items: auto;  
+    translate: 0 2%;
+}
+
+.timer-sec {
+    color: whitesmoke;
+    text-align: center;
+    justify-content: center;  
+    justify-items: auto;  
+    translate: 0 2%;
+}
